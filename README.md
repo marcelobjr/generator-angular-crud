@@ -79,29 +79,6 @@ Last command will asked you application name, so lets give it as `customerContac
 <pre>
 yo angular-crud:module
 </pre>
-Please refer below image for reference:
-
-![alt text](https://github.com/ShivaliPatel/generator-angular-crud-custom-module/blob/master/images/createModule.png)
-
-So,your customer contact application is created within 10 minutes.
-
-## Output
-### Customers list
-![alt text](https://github.com/ShivaliPatel/generator-angular-crud-custom-module/blob/master/images/customers.png)
-### Add Customer
-![alt text](https://github.com/ShivaliPatel/generator-angular-crud-custom-module/blob/master/images/addCustomer.png)
-### Edit Customer
-![alt text](https://github.com/ShivaliPatel/generator-angular-crud-custom-module/blob/master/images/updateCustomer.png)
-### Delete Customer
-![alt text](https://github.com/ShivaliPatel/generator-angular-crud-custom-module/blob/master/images/deleteCustomer.png)
-
-## Generated files
-### app.js
-![alt text](https://github.com/ShivaliPatel/generator-angular-crud-custom-module/blob/master/images/appJs.png)
-### controller.js
-![alt text](https://github.com/ShivaliPatel/generator-angular-crud-custom-module/blob/master/images/controllerJs.png)
-### services.js
-![alt text](https://github.com/ShivaliPatel/generator-angular-crud-custom-module/blob/master/images/servicesJs.png)
 
 ## Note
 
